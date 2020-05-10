@@ -3,9 +3,7 @@ This project primarily focuses on recognizing the mathematical expressions follo
 
 ## References:
 https://www.isical.ac.in/~crohme/
-
 https://www.cs.rit.edu/~crohme2019/
-
 http://cs231n.stanford.edu/reports/2015/pdfs/mohan_lu_cs231n-project-final.pdf
 https://pdfs.semanticscholar.org/b024/eaab5a88a1a0019ad81a1507787f65cbd131.pdf
 https://github.com/jungomi/math-formula-recognition
