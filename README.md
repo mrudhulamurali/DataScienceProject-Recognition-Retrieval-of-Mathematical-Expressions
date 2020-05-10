@@ -2,8 +2,8 @@
 This project primarily focuses on recognizing the mathematical expressions followed by the retrieval process. The end goal of the project is to retrieve the available sources for a given mathematical expression.
 
 ## References:
-https://www.isical.ac.in/~crohme/
-https://www.cs.rit.edu/~crohme2019/
+https://www.isical.ac.in/~crohme/<br>
+https://www.cs.rit.edu/~crohme2019/<br>
 http://cs231n.stanford.edu/reports/2015/pdfs/mohan_lu_cs231n-project-final.pdf
 https://pdfs.semanticscholar.org/b024/eaab5a88a1a0019ad81a1507787f65cbd131.pdf
 https://github.com/jungomi/math-formula-recognition
